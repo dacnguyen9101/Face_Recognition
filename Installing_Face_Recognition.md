@@ -20,62 +20,62 @@ Visual Studio Window
 
 Open ***Command Propmpt***
 ```cmd
-mkdir facerecog
+$ mkdir facerecog
 ```
 
 ```cmd
-cd .\facerecog\
+$ cd .\facerecog\
 ```
 
 ```cmd
-git clone git://github.com/ageitgey/face_recognition
+$ git clone git://github.com/ageitgey/face_recognition
 ```
 
 - **STEP -4:** CREATE A PYTHON VIRTUAL ENVIRONMENT
 
 ```cmd
-pip install virtualenv
+$ pip install virtualenv
 ```
 
 ```cmd
-virtualenv myvenvpy
+$ virtualenv myvenvpy
 ```
 
 ```cmd
-cd .\myvenvpy\Scripts\
+$ cd .\myvenvpy\Scripts\
 ```
 
 ```cmd
-.\ativate
+$ .\ativate
 ```
 
 - **STEP -5:** RUN PYTHON SETUP.PY INSTALL
 Return facerecog's directory
 
 ```cmd
-cd ..
+$ cd ..
 ```
 
 ```cmd
-cd ..
+$ cd ..
 ```
 
 ```cmd
-cd .\face_recogition
+$ cd .\face_recogition
 ```
 
 ```cmd 
-pip install cmake
+$ pip install cmake
 ```
 
 ```cmd 
-python setup.py install
+$ python setup.py install
 ```
 
 You can type **pip freeze** to check whether dlib is insatlled or not and version of libraries which have been installed
 
 ```cmd 
-pip freeze
+$ pip freeze
 ```
 
 ![](https://scontent.fvca1-2.fna.fbcdn.net/v/t1.15752-9/117235146_3162465650458047_1889766614407790221_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=C0NuaHVHO48AX-HGZNy&_nc_ht=scontent.fvca1-2.fna&oh=85d84be9774b4b21815d05e41bbfe55d&oe=5F59C782)
