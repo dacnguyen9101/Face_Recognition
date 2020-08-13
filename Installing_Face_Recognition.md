@@ -35,17 +35,8 @@ $ git clone git://github.com/ageitgey/face_recognition
 
 ```cmd
 $ pip install virtualenv
-```
-
-```cmd
 $ virtualenv myvenvpy
-```
-
-```cmd
 $ cd .\myvenvpy\Scripts\
-```
-
-```cmd
 $ .\ativate
 ```
 
@@ -54,13 +45,7 @@ Return facerecog's directory
 
 ```cmd
 $ cd ..
-```
-
-```cmd
 $ cd ..
-```
-
-```cmd
 $ cd .\face_recogition
 ```
 
