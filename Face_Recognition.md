@@ -19,5 +19,5 @@ You can even use this library with other Python libraries to do real-time face r
 See this [example](https://github.com/dacnguyen9101/Face_Recognition/blob/master/real_time.py) for the code.
 
 ## Online Demos
-User-contributed shared Jupyter notebook demo (not officially supported): ![](https://camo.githubusercontent.com/0713c03de1d17e6bc2a9d78fedcc40415afcd517/68747470733a2f2f626574612e646565706e6f74652e6f72672f627574746f6e732f7472792d696e2d612d6a7570797465722d6e6f7465626f6f6b2e737667)
+User-contributed shared Jupyter notebook demo (not officially supported): [![](https://camo.githubusercontent.com/0713c03de1d17e6bc2a9d78fedcc40415afcd517/68747470733a2f2f626574612e646565706e6f74652e6f72672f627574746f6e732f7472792d696e2d612d6a7570797465722d6e6f7465626f6f6b2e737667)](https://deepnote.com/project/84970ee4-170b-456c-9430-040b29f06c34)
 
