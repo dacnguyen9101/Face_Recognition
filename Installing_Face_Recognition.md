@@ -37,7 +37,7 @@ $ git clone git://github.com/ageitgey/face_recognition
 $ pip install virtualenv
 $ virtualenv myvenvpy
 $ cd .\myvenvpy\Scripts\
-$ .\ativate
+$ .\activate
 ```
 
 - **STEP -5:** RUN PYTHON SETUP.PY INSTALL
