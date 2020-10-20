@@ -46,7 +46,7 @@ Return facerecog's directory
 ```cmd
 $ cd ..
 $ cd ..
-$ cd .\face_recogition
+$ cd .\face_recognition
 ```
 
 ```cmd 
