@@ -5,7 +5,7 @@ Built a *Face Recognition System* using [dlib](http://dlib.net/)
 - Installed Face Recognition 
 - Installed openCV
 - Installed dlib
-***If you didn't install, you could refer [here](https://github.com/dacnguyen9101/Face_Recognition/blob/master/Installing_Face_Recognition.md)***
+***If you didn't install, refer [here](https://github.com/dacnguyen9101/Face_Recognition/blob/master/Installing_Face_Recognition.md)***
 
 ## Features
 ### Find faces in pictures
